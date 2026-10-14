@@ -17,7 +17,7 @@ Een ontwerp vertalen naar HTML en CSS, afbeeldingen over elkaar plaatsen en een 
 Download de bestanden en open index.html in een browser. Er is geen installatie nodig.
 
 ## Over deze versie
-Dit is mijn originele opleidingsopdracht. De bronbestanden zijn bewaard zoals ze zijn ingeleverd, als vertrekpunt van mijn groei als developer. Hoewel Bootstrap onderdeel was van de opdracht, gebruikt deze ingeleverde versie eigen CSS en Flexbox. De pagina is vooral voor desktop gemaakt; de navigatielinks en pre-orderknop hebben geen achterliggende functionaliteit.
+Dit is mijn originele opleidingsopdracht. De bronbestanden zijn bewaard zoals ze zijn ingeleverd, als vertrekpunt van mijn groei als developer. De pagina is vooral voor desktop gemaakt; de navigatielinks en pre-orderknop hebben geen achterliggende functionaliteit.
 
 ## Vermelding
 Dit is een educatieve nabouwopdracht, geen officiële Polestar-website. De merknaam, logo's en aangeleverde afbeeldingen behoren aan hun respectieve rechthebbenden. De tekst over pre-orders en copyright in de demo maakt deel uit van het nagemaakte ontwerp.
